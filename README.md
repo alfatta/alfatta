@@ -36,6 +36,11 @@ Feel free to reach out to me for collaboration, questions, or just to connect! ð
 [![Instagram](https://img.shields.io/badge/@alfattarezqa-000000?logo=instagram)](https://instagram.com/alfattarezqa)
 [![Instagram](https://img.shields.io/badge/me@alft.dev-000000?logo=gmail)](mailto://me@alft.dev)
 
+---
+
+### Coding Stats (Last Year)
+<img src="https://wakatime.com/share/@9e5e0e79-3644-4245-8265-55d84c7f0a08/e2ac62d7-42b9-44f7-8f4a-15cdec284186.svg" style="width: 50%" />
+
 <!-- ---
 
 ### ðŸ’¼ Professional Experience: -->
