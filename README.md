@@ -2,7 +2,7 @@
 
 ### ðŸŒŸ About Me:
 
-I am a passionate software developer with over 6 years of experience in designing and implementing innovative software solutions. I thrive on building high-quality software that not only meets but exceeds expectations.
+I am a passionate software developer with over 8 years of experience in designing and implementing innovative software solutions. I thrive on building high-quality software that not only meets but exceeds expectations.
 
 ---
 
@@ -39,7 +39,10 @@ Feel free to reach out to me for collaboration, questions, or just to connect! ð
 ---
 
 ### Coding Stats (Last Year)
-<img src="https://wakatime.com/share/@9e5e0e79-3644-4245-8265-55d84c7f0a08/e2ac62d7-42b9-44f7-8f4a-15cdec284186.svg" style="width: 50%" />
+
+<img src="https://wakatime.com/share/@alfatta/b9b20cf1-493d-45e2-849a-dcbcc8c07b38.svg" style="width: 50%" />
+
+<img src="https://wakatime.com/share/@alfatta/e2ac62d7-42b9-44f7-8f4a-15cdec284186.svg" style="width: 50%" />
 
 <!-- ---
 
